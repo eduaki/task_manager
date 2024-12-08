@@ -1,0 +1,21 @@
+{
+	"name": "projeto-pra-rediz",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "@eduaki",
+	"license": "ISC",
+	"description": "projeto desenvolvido para desafio tecnico de desenvolvedor back-end pleno",
+	"dependencies": {
+		"dotenv": "^16.4.7",
+		"express": "^4.21.2",
+		"mysql2": "^3.11.5"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.7"
+	}
+}
