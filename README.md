@@ -30,12 +30,12 @@ por [@eduaki](https://github.com/eduaki).
 1. **Clone o repositório:**
 
    ```bash
-   git clone
+   git clone https://github.com/eduaki/task_manager.git
    ```
 
 2. **Instale as dependências:**
    ```bash
-   cd seu-projeto
+   cd task_manager
    npm install
    ```
 
